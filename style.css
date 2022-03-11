@@ -1,0 +1,24 @@
+.firstpara {
+	font-family: cursive;
+	font-size: 25px;
+}
+.me {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.me {
+	width: 400px;
+    border-radius: 50%;
+}
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
+
+.sizeh {
+	font-size: 40px;
+}
+
